@@ -17,7 +17,7 @@ This is a simple and customizable password generator tool built using Python. Th
 1. Make sure you have Python 3.6 or higher installed on your system.
 2. Clone this repository to your local machine using the following command:
 
-3. git clone https://github.com/yourusername/password-generator.git
+3. git clone (https://github.com/AYUSHSHAHGITHUB/CODEVERTEX_PYTHON-TASK_1.git)
 
 
 4. (Optional) Create a virtual environment:
